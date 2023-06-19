@@ -175,7 +175,7 @@ def main():
                                 device='cpu',
                                 iou_thres=0.5,
                                 conf_thres=0.1)
-    path='samples-confidential'
+    path='samples'
 
     img_names = glob.glob(path+"/*.jpg")
     for img_name in img_names:
