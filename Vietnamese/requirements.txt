@@ -1,0 +1,5 @@
+asposestorage==1.0.2
+numpy==1.25.0
+opencv_python==4.5.5.64
+torch==1.7.1
+utils==1.0.1
